@@ -3,7 +3,7 @@
 
 # Carlos Vargas (337093) y Karol Esquivel (343927)
 
-[Link](https://parcial-ii-corte-fe-equipo-dinamita.vercel.app) de la parte backend del servidor.
+[Link](https://parcial-ii-corte-fe-equipo-dinamita.vercel.app) de la parte frontend del servidor.
 
 Vas a construir una **arquitectura de tres capas**:
 
